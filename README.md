@@ -1,4 +1,3 @@
-
 # 💼 HealthKart Influencer ROI Dashboard
 
 This project is an open-source analytics dashboard built for HealthKart to track and visualize the ROI of influencer marketing campaigns. It helps in evaluating campaign performance, calculating incremental ROAS, analyzing influencer effectiveness, and tracking payouts.
@@ -54,15 +53,15 @@ healthkart-influencer-dashboard/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/healthkart-influencer-dashboard.git
+git clone https://github.com/Devb1234/healthkart-influencer-dashboard.git
 cd healthkart-influencer-dashboard
 ```
 
 ### 2. Create a Virtual Environment (Optional)
 
 ```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+conda create -p venv python==3.10
+conda activate venv/
 ```
 
 ### 3. Install Requirements
@@ -75,7 +74,7 @@ pip install -r requirements.txt
 
 ```bash
 cd dashboard_app
-streamlit run app.py
+streamlit run dashboard_app/app.py
 ```
 
 ---
@@ -86,7 +85,7 @@ streamlit run app.py
 2. Visit: [https://streamlit.io/cloud](https://streamlit.io/cloud)
 3. Click **New App**
 4. Set:
-   - **Repo**: `your-username/healthkart-influencer-dashboard`
+   - **Repo**: `Devb1234/healthkart-influencer-dashboard`
    - **Branch**: `main`
    - **App file path**: `dashboard_app/app.py`
 5. Click **Deploy**
@@ -116,12 +115,6 @@ streamlit run app.py
 
 For any queries or contributions, feel free to connect:
 
-- 👤 **Your Name**
-- 📧 youremail@example.com
-- 🔗 [LinkedIn](https://linkedin.com/in/your-profile)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
+- 👤 **Dev Bansal**
+- 📧 devbansal763@gmail.com
+- 🔗 [LinkedIn](https://linkedin.com/in/devbansals)
