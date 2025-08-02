@@ -1,0 +1,11 @@
+influencer_id,platform,date,URL,caption,reach,likes,comments
+INF001,Twitter,2025-07-01,https://social.com/post/1,Promo post 1,23024,1103,134
+INF002,Twitter,2025-07-04,https://social.com/post/2,Promo post 2,40741,456,322
+INF004,Instagram,2025-07-02,https://social.com/post/3,Promo post 3,11140,995,139
+INF005,Instagram,2025-07-20,https://social.com/post/4,Promo post 4,41781,914,386
+INF005,Instagram,2025-07-14,https://social.com/post/5,Promo post 5,34439,2513,162
+INF001,Twitter,2025-07-06,https://social.com/post/6,Promo post 6,32696,1493,162
+INF002,YouTube,2025-07-07,https://social.com/post/7,Promo post 7,11698,479,214
+INF001,YouTube,2025-07-12,https://social.com/post/8,Promo post 8,44565,1183,433
+INF001,Twitter,2025-07-15,https://social.com/post/9,Promo post 9,13180,1650,60
+INF005,Twitter,2025-07-10,https://social.com/post/10,Promo post 10,45535,1581,315
